@@ -5,7 +5,7 @@
 
 ---
 
-### 🧑‍💼 **Milton Jesús Vera Contreras**  
+### 🧑‍💼 **Jairo Fuentes**  
 🔎 **Director**
 
 ---
