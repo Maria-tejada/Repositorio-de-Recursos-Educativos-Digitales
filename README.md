@@ -30,7 +30,7 @@ Incluyen todos los números naturales (positivos), sus opuestos (negativos) y el
 
 **Conjunto:**  
 \[
-\mathbb{Z} = \{…, -3, -2, -1, 0, 1, 2, 3, …\}
+\ $$mathbb{Z} = \{…, -3, -2, -1, 0, 1, 2, 3, …\}
 \]
 
 - **Positivos:** 1, 2, 3, …
