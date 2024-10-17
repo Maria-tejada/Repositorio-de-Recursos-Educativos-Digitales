@@ -379,6 +379,7 @@ x - y = 1
 **📚 [Neurochispas](https://www.neurochispas.com/wiki/ejercicios-de-ecuaciones-lineales/)**  
 **📚 [Superprof](https://www.superprof.es/apuntes/escolar/matematicas/algebralineal/sistemas/ecuaciones-lineales.html)**
 
+** 📚 [Juego en linea](https://wordwall.net/es-cl/community/ecuaciones/lineales)**
 ---
 
 ## 4. Sistemas de Ecuaciones Lineales 🧩🔗
