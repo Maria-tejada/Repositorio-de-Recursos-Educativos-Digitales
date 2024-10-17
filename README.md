@@ -74,7 +74,6 @@ Forma de expresar fracciones en base 10, escritos con un punto decimal y pueden 
 
 **📚 [Smartick](https://www.smartick.es/blog/matematicas/decimales/los-numeros-decimales/)**  
 **📚 [Wikipedia](https://es.wikipedia.org/wiki/Número_decimal)**
-
 **📚[Juego en linea](https://wordwall.net/es-ar/community/juegos-de-fracciones-decimales)**
 ---
 
@@ -94,7 +93,6 @@ La Regla de los Signos es fundamental para operar con números enteros (positivo
 
 **📚 [Superprof](https://www.superprof.es/diccionario/matematicas/aritmetica/regla-signos.html)**  
 **📚 [EasyMathHelper](https://easymathhelper.weebly.com/home/reglas-de-los-signos-y-operaciones-combinadas)**
-
 **📚[Juego en linea](https://cerebriti.com/juegos-de-matematicas/ley-de-signos)**
 ---
 
