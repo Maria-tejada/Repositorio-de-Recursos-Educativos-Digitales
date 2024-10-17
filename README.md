@@ -40,7 +40,6 @@ Incluyen todos los números naturales (positivos), sus opuestos (negativos) y el
 **📚 [Más Información](https://concepto.de/numeros-enteros/)**  
 **📚 [Wikipedia](https://es.wikipedia.org/wiki/Número_entero)**
 
-**📚[Juego en linea](https://wordwall.net/es-ar/community/juegos-de-fracciones-decimales)**
 
 #### **Números Fraccionarios** 🍰
 
@@ -48,7 +47,7 @@ Se expresan como una fracción o cociente de dos números enteros, donde el deno
 
 **Forma:** 
 \[
-\frac{a}{b}, \quad b \neq 0
+\{a}{b}, \quad b \neq 0
 \]
 
 - **Numerador (a):** Número en la parte superior.
@@ -67,7 +66,7 @@ Forma de expresar fracciones en base 10, escritos con un punto decimal y pueden 
 - **Decimales periódicos:** Infinitos, con una secuencia de dígitos que se repite indefinidamente.  
   *Ejemplo:* 0.3333... = 
   \[
-  \frac{1}{3}
+  \{1}{3}
   \]
 
 - **Decimales no periódicos:** Infinitos sin una secuencia repetida.  
@@ -76,6 +75,7 @@ Forma de expresar fracciones en base 10, escritos con un punto decimal y pueden 
 **📚 [Smartick](https://www.smartick.es/blog/matematicas/decimales/los-numeros-decimales/)**  
 **📚 [Wikipedia](https://es.wikipedia.org/wiki/Número_decimal)**
 
+**📚[Juego en linea](https://wordwall.net/es-ar/community/juegos-de-fracciones-decimales)**
 ---
 
 ### ➖ **Regla de los Signos**
@@ -95,6 +95,7 @@ La Regla de los Signos es fundamental para operar con números enteros (positivo
 **📚 [Superprof](https://www.superprof.es/diccionario/matematicas/aritmetica/regla-signos.html)**  
 **📚 [EasyMathHelper](https://easymathhelper.weebly.com/home/reglas-de-los-signos-y-operaciones-combinadas)**
 
+**📚[Juego en linea](https://cerebriti.com/juegos-de-matematicas/ley-de-signos)**
 ---
 
 ## 2. Expresiones Algebraicas ✏️🧮
