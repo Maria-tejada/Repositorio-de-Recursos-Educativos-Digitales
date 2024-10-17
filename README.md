@@ -946,3 +946,6 @@ Métodos para contar de manera eficiente.
 ---
 
 ¡Esperamos que esta guía te sea de gran ayuda en tu aprendizaje matemático! 📘✨
+
+¡DIOS LES BENDIGA!
+
