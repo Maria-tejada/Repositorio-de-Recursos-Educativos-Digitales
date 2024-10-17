@@ -235,6 +235,7 @@ En la expresión
 **📚 [GCFLearnFree](https://edu.gcfglobal.org/es/algebra/como-simplificar-expresiones-algebraicas/1/)**  
 **📚 [Neurochispas](https://www.neurochispas.com/wiki/ejercicios-de-terminos-semejantes-resueltos-y-para-resolver/)**
 
+**📚 [Juego en linea](https://wordwall.net/es-ar/community/expresiones-algebraicas)**
 ---
 
 ## 3. Ecuaciones Lineales 📐✖️➕
