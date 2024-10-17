@@ -47,14 +47,14 @@ Se expresan como una fracción o cociente de dos números enteros, donde el deno
 
 **Forma:** 
 \[
-\{a}{b}, \quad b \neq 0
+\{a}{b}, a/b / b≠0
 \]
 
 - **Numerador (a):** Número en la parte superior.
 - **Denominador (b):** Número en la parte inferior.
 
 **📚 [Wikipedia](https://es.wikipedia.org/wiki/Facción)**  
-**📚 [Matemáticas Grados Sexto](https://sites.google.com/site/matematicasgradosexto/numeros-fraccionarios)**
+**📚 [Números fraccionarios](https://sites.google.com/site/matematicasgradosexto/numeros-fraccionarios)**
 
 #### **Números Decimales** 🥇
 
@@ -65,9 +65,6 @@ Forma de expresar fracciones en base 10, escritos con un punto decimal y pueden 
 
 - **Decimales periódicos:** Infinitos, con una secuencia de dígitos que se repite indefinidamente.  
   *Ejemplo:* 0.3333... = 
-  \[
-  \{1}{3}
-  \]
 
 - **Decimales no periódicos:** Infinitos sin una secuencia repetida.  
   *Ejemplo:* 0.14159… (π)
