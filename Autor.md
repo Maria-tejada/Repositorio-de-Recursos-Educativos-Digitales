@@ -5,7 +5,7 @@
 
 ---
 
-### 🧑‍💼 **Jairo Fuentes**  
+### 🧑‍💼 **Mg. Jairo Alberto Fuentes Camargo**  
 🔎 **Director**
 
 ---
