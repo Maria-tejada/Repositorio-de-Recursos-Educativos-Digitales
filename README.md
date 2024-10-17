@@ -564,6 +564,7 @@ f(x) = mx + b
 **📚 [Proyecto Descartes](https://www.proyectodescartes.org/EDAD/materiales_didacticos/EDAD_3eso_funciones_lineales-JS-LOMCE/3eso_quincena10_acad.pdf)**  
 **📹 [YouTube - Susi Profe](https://www.youtube.com/watch?v=7RKNBRUIfek&ab_channel=SusiProfe)**
 
+**📚[Juego en linea](https://wordwall.net/es-cl/community/funci%C3%B3n-lineal)**
 #### **Funciones Cuadráticas** 🔄🌀
 
 **Forma general:**
@@ -578,6 +579,7 @@ f(x) = ax^2 + bx + c
 - **Intersección con el eje y:** Punto \((0, c)\).
 - **Raíces:** Puntos donde la parábola corta el eje x.
 
+**📚[Juego en linea](https://www.cerebriti.com/juegos-de-funci%C3%B3n+cuadr%C3%A1tica/tag/mas-recientes/**
 ---
 
 ### 📊 **Análisis de Pendiente, Intersección y Comportamiento**
@@ -586,6 +588,7 @@ f(x) = ax^2 + bx + c
 - **Intercepto (\(b\)):** Punto donde la función cruza el eje y.
 - **Comportamiento:** Cómo se comporta la función a medida que \(x\) aumenta o disminuye.
 
+**📚[Juego en linea](https://phet.colorado.edu/es/simulations/graphing-slope-intercept)**
 ---
 
 ### 🛠️ **Modelado de Situaciones con Funciones Cuadráticas**
@@ -696,6 +699,7 @@ x^2 - 4x + 3 < 0
 
 **📹 [YouTube - Matemáticas y ESO](https://www.youtube.com/watch?v=g2CKC9DLq3w&ab_channel=matematicasyeso)**
 
+**📚[Juego en linea](https://www.cerebriti.com/juegos-de-inecuaciones/tag/mas-recientes/)**
 ---
 
 ## 8. Funciones 📈🔢
@@ -753,7 +757,8 @@ f(x) = ax^2 + bx + c
 - **Intersecciones:** Puntos donde la función cruza los ejes.
 
 **📚 [Slideshare](https://es.slideshare.net/slideshow/funciones-lineales-y-cuadraticas/92528492)**
-
+**📹[Contenido visual-videode YouTube](https://www.youtube.com/watch?v=7RKNBRUIfek)**
+**📚[Juego en linea](https://blogsaverroes.juntadeandalucia.es/matematicasenunclic/2019/05/19/%E2%98%91ejercicios-juegos-interactivos-de-graficas-y-funciones%E2%98%91/)**
 ---
 
 ## 9. Geometría Analítica 📐🗺️
@@ -805,8 +810,8 @@ Determinar la ubicación del punto \((-3, 2)\):
   M = \left( \frac{x_1 + x_2}{2}, \frac{y_1 + y_2}{2} \right)
   \]
 
-**📚 [Blogs UGTO](https://blogs.ugto.mx/rea/clase-digital-7-metodos-de-solucion-de-sistemas-de-ecuaciones-lineales-con-dos-variables/)**
-
+**📚[Blogs UGTO](https://blogs.ugto.mx/rea/clase-digital-7-metodos-de-solucion-de-sistemas-de-ecuaciones-lineales-con-dos-variables/)**
+**📚[Juego en linea](https://wordwall.net/es-mx/community/plano-cartesiano)**
 ---
 
 ## 10. Probabilidad y Estadística 📊🎲
@@ -895,6 +900,7 @@ Métodos para contar de manera eficiente.
 
 - [Problemas y Ecuaciones](https://www.problemasyecuaciones.com/inecuaciones/basicas/inecuaciones-basicas-explicadas-resuelas-soluciones-intervalo-ejemplos-fraccion.html)
 - [Sangakoo](https://www.sangakoo.com/es/temas/introduccion-y-propiedades-de-las-inecuaciones)
+- **📚[Juego en linea](https://wordwall.net/es-cl/community/gr%C3%A1ficos-de-barra-y-circulares)**
 
 ---
 
@@ -921,7 +927,20 @@ Métodos para contar de manera eficiente.
 - [Khan Academy - Sistemas de Ecuaciones](https://es.khanacademy.org/math/algebra/x2f8bb11595b61c86:systems-of-equations/x2f8bb11595b61c86:number-of-solutions-to-systems-of-equations-review)
 - [Neurochispas - Inecuaciones](https://www.neurochispas.com/wiki/sistemas-de-ecuaciones-por-el-metodo-de-sustitucion/)
 - [YouTube - Matemáticas y ESO](https://www.youtube.com/watch?v=g2CKC9DLq3w&ab_channel=matematicasyeso)
-
+-[Juego en linea](https://wordwall.net/es-ar/community/juegos-de-fracciones-decimales)
+-[Juego en linea](https://cerebriti.com/juegos-de-matematicas/ley-de-signos)
+-[Juego en linea](https://wordwall.net/es-ar/community/expresiones-algebraicas)
+-[Juego en linea](https://wordwall.net/es-cl/community/ecuaciones/lineales)
+-[Juego en linea](https://www.cerebriti.com/juegos-de-ecuaciones+lineales/tag/mas-recientes/)
+-[Juego en linea](https://www.educaplay.com/learning-resources/17109666-juegos_de_factorizacion.html)
+-[Juego en linea](https://wordwall.net/es-cl/community/funci%C3%B3n-lineal)
+-[Juego en linea](https://www.cerebriti.com/juegos-de-funci%C3%B3n+cuadr%C3%A1tica/tag/mas-recientes/)
+-[Juego en linea](https://phet.colorado.edu/es/simulations/graphing-slope-intercept)
+-[Juego en linea](https://www.cerebriti.com/juegos-de-inecuaciones/tag/mas-recientes/)
+-[Contenido visual-video](https://www.youtube.com/watch?v=7RKNBRUIfek)
+-[Juego en linea](https://blogsaverroes.juntadeandalucia.es/matematicasenunclic/2019/05/19/%E2%98%91ejercicios-juegos-interactivos-de-graficas-y-funciones%E2%98%91/)
+-[Juego en linea](https://wordwall.net/es-mx/community/plano-cartesiano)
+-[Juego en linea](https://wordwall.net/es-cl/community/gr%C3%A1ficos-de-barra-y-circulares)
 ---
 
 ¡Esperamos que esta guía te sea de gran ayuda en tu aprendizaje matemático! 📘✨
