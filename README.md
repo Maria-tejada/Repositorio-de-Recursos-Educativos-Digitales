@@ -235,7 +235,7 @@ En la expresión
 **📚 [GCFLearnFree](https://edu.gcfglobal.org/es/algebra/como-simplificar-expresiones-algebraicas/1/)**  
 **📚 [Neurochispas](https://www.neurochispas.com/wiki/ejercicios-de-terminos-semejantes-resueltos-y-para-resolver/)**
 
-**📚 [Juego en linea](https://wordwall.net/es-ar/community/expresiones-algebraicas)**
+**📚[Juego en linea](https://wordwall.net/es-ar/community/expresiones-algebraicas)**
 ---
 
 ## 3. Ecuaciones Lineales 📐✖️➕
@@ -379,7 +379,7 @@ x - y = 1
 **📚 [Neurochispas](https://www.neurochispas.com/wiki/ejercicios-de-ecuaciones-lineales/)**  
 **📚 [Superprof](https://www.superprof.es/apuntes/escolar/matematicas/algebralineal/sistemas/ecuaciones-lineales.html)**
 
-** 📚 [Juego en linea](https://wordwall.net/es-cl/community/ecuaciones/lineales)**
+**📚[Juego en linea](https://wordwall.net/es-cl/community/ecuaciones/lineales)**
 ---
 
 ## 4. Sistemas de Ecuaciones Lineales 🧩🔗
@@ -437,6 +437,8 @@ Consisten en un conjunto de dos o más ecuaciones lineales con dos o más incóg
 
 **📚 [Khan Academy](https://es.khanacademy.org/math/algebra/x2f8bb11595b61c86:systems-of-equations/x2f8bb11595b61c86:number-of-solutions-to-systems-of-equations-review)**  
 **📹 [YouTube - Interpretación Gráfica](https://www.youtube.com/watch?v=9Zpn8TaQBvE)**
+
+**📚[Juego en linea](https://www.cerebriti.com/juegos-de-ecuaciones+lineales/tag/mas-recientes/)**
 
 ---
 
@@ -503,6 +505,7 @@ Es una técnica fundamental en álgebra que permite simplificar expresiones alge
 **📚 [Lifeder](https://www.lifeder.com/factorizacion/)**  
 **📚 [Wikiversity](https://es.wikiversity.org/wiki/Factorización)**
 
+**📚[Juego en linea](https://www.educaplay.com/learning-resources/17109666-juegos_de_factorizacion.html)**
 ---
 
 ### 🧩 **Aplicación de la Factorización en la Simplificación de Expresiones**
