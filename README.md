@@ -39,7 +39,7 @@ Incluyen todos los números naturales (positivos), sus opuestos (negativos) y el
 
 **📚 [Más Información](https://concepto.de/numeros-enteros/)**  
 **📚 [Wikipedia](https://es.wikipedia.org/wiki/Número_entero)**
-
+**[Juego en linea](https://wordwall.net/es-ar/community/juegos-de-fracciones-decimales)**
 #### **Números Fraccionarios** 🍰
 
 Se expresan como una fracción o cociente de dos números enteros, donde el denominador no es cero.
