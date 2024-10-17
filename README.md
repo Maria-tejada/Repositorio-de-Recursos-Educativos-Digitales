@@ -813,6 +813,7 @@ Determinar la ubicación del punto \((-3, 2)\):
   \]
 
 **📚[Blogs UGTO](https://blogs.ugto.mx/rea/clase-digital-7-metodos-de-solucion-de-sistemas-de-ecuaciones-lineales-con-dos-variables/)**
+
 **📚[Juego en linea](https://wordwall.net/es-mx/community/plano-cartesiano)**
 ---
 
@@ -929,35 +930,20 @@ Métodos para contar de manera eficiente.
 - [Wikiversity - Factorización](https://es.wikiversity.org/wiki/Factorización)
 - [Khan Academy - Sistemas de Ecuaciones](https://es.khanacademy.org/math/algebra/x2f8bb11595b61c86:systems-of-equations/x2f8bb11595b61c86:number-of-solutions-to-systems-of-equations-review)
 - [Neurochispas - Inecuaciones](https://www.neurochispas.com/wiki/sistemas-de-ecuaciones-por-el-metodo-de-sustitucion/)
-- 
-- [YouTube - Matemáticas y ESO](https://www.youtube.com/watch?v=g2CKC9DLq3w&ab_channel=matematicasyeso)
-- 
+- [YouTube - Matemáticas y ESO](https://www.youtube.com/watch?v=g2CKC9DLq3w&ab_channel=matematicasyeso) 
 -[Juego en linea](https://wordwall.net/es-ar/community/juegos-de-fracciones-decimales)
-
 -[Juego en linea](https://cerebriti.com/juegos-de-matematicas/ley-de-signos)
-
 -[Juego en linea](https://wordwall.net/es-ar/community/expresiones-algebraicas)
-
 -[Juego en linea](https://wordwall.net/es-cl/community/ecuaciones/lineales)
-
 -[Juego en linea](https://www.cerebriti.com/juegos-de-ecuaciones+lineales/tag/mas-recientes/)
-
 -[Juego en linea](https://www.educaplay.com/learning-resources/17109666-juegos_de_factorizacion.html)
-
 -[Juego en linea](https://wordwall.net/es-cl/community/funci%C3%B3n-lineal)
-
 -[Juego en linea](https://www.cerebriti.com/juegos-de-funci%C3%B3n+cuadr%C3%A1tica/tag/mas-recientes/)
-
 -[Juego en linea](https://phet.colorado.edu/es/simulations/graphing-slope-intercept)
-
 -[Juego en linea](https://www.cerebriti.com/juegos-de-inecuaciones/tag/mas-recientes/)
-
 -[Contenido visual-video](https://www.youtube.com/watch?v=7RKNBRUIfek)
-
 -[Juego en linea](https://blogsaverroes.juntadeandalucia.es/matematicasenunclic/2019/05/19/%E2%98%91ejercicios-juegos-interactivos-de-graficas-y-funciones%E2%98%91/)
-
 -[Juego en linea](https://wordwall.net/es-mx/community/plano-cartesiano)
-
 -[Juego en linea](https://wordwall.net/es-cl/community/gr%C3%A1ficos-de-barra-y-circulares)
 
 ---
